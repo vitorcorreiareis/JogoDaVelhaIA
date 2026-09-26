@@ -2,6 +2,12 @@
 
 Jogo da velha (Tic-Tac-Toe) para Android, feito em **Kotlin** com **Jetpack Compose**. Você pode jogar contra uma IA com três níveis de dificuldade ou contra outra pessoa no mesmo aparelho.
 
+## Captura de tela
+
+<p align="center">
+  <img src="screenshots/1.png" alt="Tela inicial do jogo no modo Contra a IA, dificuldade Difícil" width="300">
+</p>
+
 ## Funcionalidades
 
 - **Dois modos de jogo**
